@@ -23,25 +23,25 @@ Watch and Learn: Challenge your ability to recognize and interpret visuals with 
 
 Listen and Learn: For auditory learners, the Listen and Learn feature presents audio-based questions to sharpen your skills and enrich your learning experience.
 
-How to Use
-Signup/Login: Create an account or log in to your existing account to access all the app's features.
+****How to Use****
+**Signup/Login:** Create an account or log in to your existing account to access all the app's features.
 
-Explore: Browse through the diverse quiz categories and subcategories available.
+**Explore:** Browse through the diverse quiz categories and subcategories available.
 
-Learn: Engage with tutorials and quizzes to enhance your skills and knowledge.
+**Learn:** Engage with tutorials and quizzes to enhance your skills and knowledge.
 
-Compete: Join quiz contests and the Battle Arena to test your skills against others.
+**Compete:** Join quiz contests and the Battle Arena to test your skills against others.
 
-Certify: Earn certificates by completing practice exams and real exams in your desired subjects.
+**Certify: **Earn certificates by completing practice exams and real exams in your desired subjects.
 
-Stay Updated: Participate in the Daily Quiz, True/False Area, Watch and Learn, and Listen and Learn features to broaden your horizons.
+**Stay Updated:** Participate in the Daily Quiz, True/False Area, Watch and Learn, and Listen and Learn features to broaden your horizons.
 
-Get Started
+**Get Started**
 Embark on a journey to becoming a true master of knowledge with Inshort Quiz: Master Skills. Whether you're a student looking to expand your knowledge or a skills seeker aiming for expertise, this app is your ultimate companion. Start learning now and unlock exciting features, earn certifications, win prizes, and gain recognition through a user-friendly and immersive learning experience.
 
 Download Now and take your first step towards mastering new skills!
 
 Contact Us
-Have questions, suggestions, or feedback? Reach out to us at contact@inshortquizmasterskills.com.
+Have questions, suggestions, or feedback? Reach out to us at contact@theinshort.com.
 
 Feel free to customize and add more sections if needed. Don't forget to replace # in the "Download Now" link with the actual download link when the app is published.
