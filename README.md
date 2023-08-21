@@ -1,4 +1,5 @@
-![Inshort Quiz Logo](https://play-lh.googleusercontent.com/fh4Lu_Ptw-HFcSPSzr-ZwZOvf13yVF1N2Jz2tPD7gjXPvULbo7vFgR4Nr1PaL9nQxw) # Inshort Quiz - Master Skills
+![Inshort Quiz Logo](https://play-lh.googleusercontent.com/fh4Lu_Ptw-HFcSPSzr-ZwZOvf13yVF1N2Jz2tPD7gjXPvULbo7vFgR4Nr1PaL9nQxw=s100-rw) 
+# Inshort Quiz - Master Skills
 
 ## Description
 
@@ -38,9 +39,17 @@ Welcome to **Inshort Quiz: Master Skills**, your ultimate platform for mastering
    
 6. **Stay Updated**: Participate in the Daily Quiz, True/False Area, Watch and Learn, and Listen and Learn features to broaden your horizons.
 
+## Screenshots
+
+<div align="center">
+    <img src="https://play-lh.googleusercontent.com/bObW2f9dFbOPrcTqiAaxso_8dVfq8Bt8qG4vxKmWNZoppSH6zo-rRPLrJvd8d0-N3js=w2560-h1440-rw" alt="Screenshot 1" width="400"/>
+    <img src="https://play-lh.googleusercontent.com/0vde90y_w-h7P07h4nIpazWiRm8t7uhX4Z5ejpK7CmbFcnl6_MiHWnI-SbM5hsWaGJs=w2560-h1440-rw" alt="Screenshot 2" width="400"/>
+</div>
+
 ## Get Started
 
 Embark on a journey to becoming a true master of knowledge with Inshort Quiz: Master Skills. Whether you're a student looking to expand your knowledge or a skills seeker aiming for expertise, this app is your ultimate companion. Start learning now and unlock exciting features, earn certifications, win prizes, and gain recognition through a user-friendly and immersive learning experience.
+
 
 [Download Now](https://play.google.com/store/apps/details?id=com.theinshort.inshortquiz) and take your first step towards mastering new skills!
 
