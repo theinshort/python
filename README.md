@@ -1,4 +1,4 @@
-![Inshort Quiz Logo](https://play-lh.googleusercontent.com/fh4Lu_Ptw-HFcSPSzr-ZwZOvf13yVF1N2Jz2tPD7gjXPvULbo7vFgR4Nr1PaL9nQxw=s100-rw) 
+![Inshort Quiz Logo](https://play-lh.googleusercontent.com/fh4Lu_Ptw-HFcSPSzr-ZwZOvf13yVF1N2Jz2tPD7gjXPvULbo7vFgR4Nr1PaL9nQxw=s148-rw) 
 # Inshort Quiz - Master Skills
 
 ## Description
@@ -41,10 +41,10 @@ Welcome to **Inshort Quiz: Master Skills**, your ultimate platform for mastering
 
 ## Screenshots
 
-<div align="center">
-    <img src="https://play-lh.googleusercontent.com/bObW2f9dFbOPrcTqiAaxso_8dVfq8Bt8qG4vxKmWNZoppSH6zo-rRPLrJvd8d0-N3js=w2560-h1440-rw" alt="Screenshot 1" width="400"/>
-    <img src="https://play-lh.googleusercontent.com/0vde90y_w-h7P07h4nIpazWiRm8t7uhX4Z5ejpK7CmbFcnl6_MiHWnI-SbM5hsWaGJs=w2560-h1440-rw" alt="Screenshot 2" width="400"/>
-</div>
+| Screenshot 1 | Screenshot 2 |
+| ------------ | ------------ |
+| ![Screenshot 1](https://play-lh.googleusercontent.com/bObW2f9dFbOPrcTqiAaxso_8dVfq8Bt8qG4vxKmWNZoppSH6zo-rRPLrJvd8d0-N3js=w2560-h1440-rw) | ![Screenshot 2](https://play-lh.googleusercontent.com/0vde90y_w-h7P07h4nIpazWiRm8t7uhX4Z5ejpK7CmbFcnl6_MiHWnI-SbM5hsWaGJs=w2560-h1440-rw) |
+
 
 ## Get Started
 
