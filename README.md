@@ -5,6 +5,9 @@
 
 Welcome to **Inshort Quiz: Master Skills**, your ultimate platform for mastering new subjects and programming skills. This engaging online quiz application is designed to cater to students, skill seekers, and tech enthusiasts, providing an interactive and fun way to learn at your own pace. With a diverse range of quiz categories, subcategories, and levels, this app offers something for everyone.
 
+[![INSHORT QUIZ PROMO](https://img.youtube.com/vi/jhTVA7LI1zc/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhTVA7LI1zc)
+
+
 ## Key Features
 
 - **Engaging Quizzes**: Dive into captivating quizzes covering a wide range of subjects and topics. Challenge yourself and enhance your knowledge while having fun.
@@ -41,9 +44,9 @@ Welcome to **Inshort Quiz: Master Skills**, your ultimate platform for mastering
 
 ## Screenshots
 
-| Screenshot 1 | Screenshot 2 |
-| ------------ | ------------ |
-| ![Screenshot 1](https://play-lh.googleusercontent.com/bObW2f9dFbOPrcTqiAaxso_8dVfq8Bt8qG4vxKmWNZoppSH6zo-rRPLrJvd8d0-N3js=w2560-h1440-rw) | ![Screenshot 2](https://play-lh.googleusercontent.com/0vde90y_w-h7P07h4nIpazWiRm8t7uhX4Z5ejpK7CmbFcnl6_MiHWnI-SbM5hsWaGJs=w2560-h1440-rw) |
+| Screenshot 1 | Screenshot 2 | | Screenshot 3 | Screenshot 4 | | Screenshot 5 | Screenshot 6 | | Screenshot 7 | Screenshot 8 |
+| ------------ | ------------ | | ------------ | ------------ | | ------------ | ------------ | | ------------ | ------------ |
+| ![Screenshot 1](https://play-lh.googleusercontent.com/bObW2f9dFbOPrcTqiAaxso_8dVfq8Bt8qG4vxKmWNZoppSH6zo-rRPLrJvd8d0-N3js=w2560-h1440-rw) | ![Screenshot 2](https://play-lh.googleusercontent.com/0vde90y_w-h7P07h4nIpazWiRm8t7uhX4Z5ejpK7CmbFcnl6_MiHWnI-SbM5hsWaGJs=w2560-h1440-rw) | | ![Screenshot 3](https://play-lh.googleusercontent.com/L8-4pC3Png5hA0Da0fRC_O2T6s0VEvs5zwwpOI5pNYAxWjYjv5xZboUvtxmeHjPLYw=w2560-h1440-rw) | ![Screenshot 4](https://play-lh.googleusercontent.com/pYDFIl1ynqXTuM5fHPMpDLuM9PoRF15Yau_ac-88icq_3S8qr3nt7_MhjVMYc51I4Vg=w2560-h1440-rw) | | ![Screenshot 5](https://play-lh.googleusercontent.com/imNaOyqVEjtrzU6Q9PPMa85ftEAunqQ-U-sRH_NmE0CLio9F9wO_x6juilcnriOwzkI=w2560-h1440-rw) | ![Screenshot 6](https://play-lh.googleusercontent.com/bidpQOhXNacnO7nKMsXJHusK68ZLoRdiImwvYdO1eQ5Gtx4_9YBA4DggCjdGh3sMPY47=w2560-h1440-rw) | | ![Screenshot 7](https://play-lh.googleusercontent.com/PLv6EuHqL42zNv7RsKs_9-Px7GeCynSvdiYI7-ICmNiESmfOI6DRfypym7UiGHKuG2og=w2560-h1440-rw) | ![Screenshot 8](https://play-lh.googleusercontent.com/o8NX_bQdntbj-YKGvtVkw1C3BU3Qw4YZsv-kD6u34YII8PXhn2avOzn-0b1lOGHdF3Rn=w2560-h1440-rw) |
 
 
 ## Get Started
