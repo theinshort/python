@@ -1,0 +1,36 @@
+# Different forms of Python's print() method
+# In the given example, we are printing the messages by using different forms of the print() method in Python.
+
+# Python example for different variations of print()
+# it will print new line after the messages
+print("Hello")
+print("World")
+
+# it will print new line
+print()
+
+# it will print new line after printing "Hello"
+print("Hello",end="\n")
+# it willprint new line after printing "World"
+print("World")
+
+# it will print new line 
+print()
+
+# it will not print new line after printing "Hello"
+# it will print space " "
+print("Hello",end=" ")
+# it will print new line after printing "World"
+print("World")
+# Output
+# Hello
+# World
+
+# Hello
+# World
+
+# Hello World
+# Explanation
+# print() prints new line after printing the message by default.
+
+# end parameter can be used to specify the end character after printing the message - here in this program, we are using end="\n" and end=" ", first one will print a newline after the message and the second one will print the space after printing the message.
