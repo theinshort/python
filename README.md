@@ -1,4 +1,4 @@
-# Inshort Quiz - Master Skills
+![Inshort Quiz Logo](https://play-lh.googleusercontent.com/fh4Lu_Ptw-HFcSPSzr-ZwZOvf13yVF1N2Jz2tPD7gjXPvULbo7vFgR4Nr1PaL9nQxw) # Inshort Quiz - Master Skills
 
 ## Description
 
